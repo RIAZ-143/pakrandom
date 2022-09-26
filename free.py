@@ -1,4 +1,0 @@
-import pakrandom
-
-
-pakrandom.pak()
